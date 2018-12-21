@@ -1,5 +1,6 @@
-#!/Users/song/Documents/React/backend/env/bin/python3
-
+#!/bin/sh
+'''exec' "/Users/song/Documents/Course/React Blog/backend/env/bin/python3" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys

@@ -1,4 +1,4 @@
-#!/Users/song/Documents/React/backend/env/bin/python3
+#!/Users/song/Documents/Course/React Blog/backend/env/bin/python3
 from django.core import management
 
 if __name__ == "__main__":
